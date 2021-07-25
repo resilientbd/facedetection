@@ -1,7 +1,7 @@
-package com.faisal.facedetection.example;
+package com.example;
 
 
-import com.faisal.facedetection.example.databinding.FragmentExampleBinding;
+import com.example.databinding.FragmentExampleBinding;
 import com.faisal.facedetection.ui.home.ui.home.FaceDetectionFragmentFace;
 import com.faisal.facedetection.ui.home.ui.home.FaceDetectionFragmentViewModel;
 import com.faisal.facedetection.util.googlevision.CameraPreview;

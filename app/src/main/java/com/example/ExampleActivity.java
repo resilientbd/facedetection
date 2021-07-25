@@ -1,4 +1,4 @@
-package com.faisal.facedetection.example;
+package com.example;
 
 import androidx.appcompat.app.AppCompatActivity;
 
