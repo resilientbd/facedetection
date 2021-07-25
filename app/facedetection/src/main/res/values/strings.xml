@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">facedetection</string>
+    <string name="permission_dialog_text">Please allow camera permission to use detection feature</string>
+    <string name="error_face_position">* Please keep your face straight!</string>
+    <string name="error_face_center">* Please keep your face in the center of the screen</string>
+    <string name="error_eyes_closed">* please open both eyes!</string>
+    <string name="error_left_eyes_closed">* please open left eye!</string>
+    <string name="error_right_eyes_closed">* please open right eye!</string>
+    <string name="no_faces_found">* No Face Found! Please select another image</string>
+    <string name="more_image">* More than one face is not acceptable. Please select another image.</string>
+    <string name="invalid_image">* Invalid Image!</string>
+</resources>
